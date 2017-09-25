@@ -31,4 +31,5 @@ It should be possible to run any number of mongodb containers via docker compose
 
 ## How to deliver your results
 
-Fork this repo and once you're done send us a pull request.
+Fork this repo and once you're done send us a link to a repo with your solution. The result should be your own repository on Github with instructions how to run everything.
+
