@@ -1,0 +1,14 @@
+version: '3.0'
+services:
+  mongonode01:
+   build: .
+   expose: 
+        - 27017    
+  mongonode02:
+   build: .
+   expose:
+        - 27017
+  mongonode03:
+   build: .
+   expose:
+        - 27017
